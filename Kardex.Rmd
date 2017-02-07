@@ -1,0 +1,60 @@
+---
+title: "Kárdex"
+author: "Adrián Gálvez"
+date: "3 de febrero de 2017"
+output: html_document
+---
+
+#Kardex
+
+##Otoño 2013
+07 Programación actuarial I
+06 Introducción a la profesión actuarial
+10 DHPC
+10 Lengua Extranjera I
+10 Lengua Extranjera II
+10 Lengua Extranjera III
+10 Lengua Extranjera IV
+08 Conceptos de cálculo
+07 Matemáticas básicas
+07Problemas de matemáticas básicas
+
+##Primavera 2014
+08 Teoría del Interés I
+09 Microeconomía
+10 Formación Humana y Social
+
+##Otoño 2014
+08 Teoría del Interés II
+10 DHTIC
+10 Registro Académico y Científico del Español
+09 Cálculo Diferencial
+09 Teoría d Ecuaciones
+
+##Primavera 2015
+10 Macroeconomía
+07 Cálculo integral
+08 Álgebra Lineal
+05 Programación Actuarial II
+05 Programacion Actuarial II
+
+##Otoño 2015
+10 Sistema Financiero Mexicano
+07 Demografía
+07 Ecuaciones Diferenciales I
+07 Introducción a las Estructuras Algebráicas
+08 Probabilidad I
+
+##Primavera 2016
+08 Contabilidad General
+10 Legislación de Seguros
+07 Matemáticas Actuariales I
+08 Derivados Financieros
+10 Econometría I
+10 Cálculo Diferencial en varias variables
+
+##Otoño 2016
+08 Programación Actuarial II
+07 Matemáticas Actuariales II
+08 Finanzas Corporativas
+07 Análisis Matemático en Rn
